@@ -2,7 +2,8 @@
 
 Простое и функциональное приложение для управления задачами с поддержкой подзадач, статусов выполнения и дат.
 
-![Пример интерфейса](https://via.placeholder.com/800x400.png?text=To-Do+List+Interface)
+![image](https://github.com/user-attachments/assets/cf398528-9d6f-47c7-96a0-39f2c5cba4da)
+
 
 ## Основные функции
 
