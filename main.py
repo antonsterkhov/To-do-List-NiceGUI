@@ -230,3 +230,5 @@ ui.add_head_html('''
 
 TodoApp()
 ui.run(title='To-Do List с подзадачами', port=8080)
+
+#generate deepseek 
